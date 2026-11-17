@@ -1,0 +1,63 @@
+
+# CASELINK SAMPLE DATABASE
+
+# PERSONS
+P|P101|Aarav Sharma
+P|P102|Riya Malhotra
+P|P103|Kabir Verma
+P|P104|Ananya Singh
+P|P105|Vihaan Kapoor
+P|P106|Meera Joshi
+P|P107|Arjun Mehta
+P|P108|Sanya Gupta
+P|P109|Ishaan Roy
+P|P110|Aditi Rao
+P|P111|Karan Khanna
+P|P112|Naina Das
+P|P113|Dev Bansal
+P|P114|Tara Sinha
+P|P115|Reyansh Jain
+
+# CASES
+C|C201|Cyber Fraud
+C|C202|Financial Fraud
+C|C203|Identity Theft
+C|C204|Data Breach
+C|C205|Online Banking Scam
+C|C206|Document Forgery
+C|C207|Corporate Espionage
+C|C208|Digital Payment Fraud
+
+# RELATIONSHIPS
+R|P101|C201
+R|P101|C202
+R|P102|C201
+R|P102|C203
+R|P103|C201
+R|P103|C204
+R|P104|C202
+R|P104|C205
+R|P105|C203
+R|P105|C206
+R|P106|C204
+R|P106|C207
+R|P107|C205
+R|P107|C208
+R|P108|C201
+R|P108|C204
+R|P109|C202
+R|P109|C206
+R|P110|C203
+R|P110|C208
+R|P111|C204
+R|P111|C207
+R|P112|C205
+R|P112|C206
+R|P113|C201
+R|P113|C207
+R|P114|C202
+R|P114|C208
+R|P115|C206
+R|P115|C207
+
+
